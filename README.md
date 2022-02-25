@@ -1,6 +1,6 @@
 # Shopify-Top-Text-Bar
 Create top bar in shopify
-### First in your Sections part  create template top-text-bar.liquid  and peast
+### First in your Sections part  create template top-text-bar.liquid  and input code
 ```html
 <div data-section-id="{{ section.id }}"  id="flexslider-{{ section.id }}" class="flexslider bar-slider" data-section-type="bar-section">
   <ul class="textbar_slides">
